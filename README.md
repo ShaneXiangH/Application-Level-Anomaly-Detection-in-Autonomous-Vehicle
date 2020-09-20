@@ -20,5 +20,5 @@ Autonomous vehicle is one of the development directions in future society. One t
 
 ### The way to run the project
 1. Clone the [Carla Simulator](https://github.com/carla-simulator/carla), [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod), and [Darknet Yolo v4](https://github.com/AlexeyAB/darknet) separately in your PC, add the files in this repository with the right path. 
-2. Run the Carla Simulator, Yolo v4, and PyOD based on [the whole experiment process](./photos/Carla experiment process.png) 
+2. Run the Carla Simulator, Yolo v4, and PyOD based on [the-whole-experiment-process](./photos/Carla experiment process.png) 
 
