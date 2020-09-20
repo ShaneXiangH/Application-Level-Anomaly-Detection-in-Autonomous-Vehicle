@@ -13,7 +13,9 @@ Autonomous vehicle is one of the development directions in future society. One t
 
 ### The projects used are:
 [Carla Simulator](https://github.com/carla-simulator/carla)
+
 [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)
+
 [Darknet Yolo v4](https://github.com/AlexeyAB/darknet)
 
 ### The way to run the project
